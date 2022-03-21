@@ -8,6 +8,7 @@ export const Navbar = () => {
                 <a href="#">Inicio</a>
                 <a href="#">Sobre Nosotros</a>
                 <a href="#">Contacto</a>
+                <a href="#">Cambio</a>
             </div>
         </div>
     </>
